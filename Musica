@@ -21,6 +21,7 @@ http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/25.m3u8
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, InterRadio TV
 https://v2.tustreaming.cl/interradiotv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
-#EXTINF:0, Retro Plus TV
+#EXTINF:0, Retro Plus Tv
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:0, Music Top HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
