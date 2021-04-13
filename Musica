@@ -23,5 +23,5 @@ https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 https://v2.tustreaming.cl/interradiotv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 #EXTINF:0, Retro Plus Tv
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Music Top HD
+#EXTINF: 1,Musica Top HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
